@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969587733509",
+    "project_id": "jymwork-a4fd1",
+    "storage_bucket": "jymwork-a4fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969587733509:android:aa9faa81e57bb36a8b986c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969587733509-85cpv9sedhbs1is385q3odtdn9v0fsnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITD7f1N_pPzzuxRhE7F84BB03eGGvplo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969587733509-85cpv9sedhbs1is385q3odtdn9v0fsnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
